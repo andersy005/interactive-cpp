@@ -29,6 +29,6 @@ conda install cling -c QuantStack -c conda-forge
 conda install xeus-cling -c QuantStack -c conda-forge
 ```
 
-After starting Jupyter Lab with jupyter lab, you should now see two additional kernels: xeus C++11 and xeus C++14. You can use either of them to use Arrow as it’s based on C++11 but the code is also compatible with C++14.
+After starting Jupyter Lab with jupyter lab, you should now see two additional kernels: xeus C++11 and xeus C++14. You can use either of them to use write interactive C++ programs.
 
 ![](assets/jupyterlab.png)
