@@ -1,6 +1,8 @@
 # Play interactively with C++ Programming  in [xeus-cling](https://github.com/QuantStack/xeus-cling)-a Jupyter Kernel for C++ based on xeus and cling
 
 
+Note: Credit goes to [Uwe for his excellent blog post on how to setup C++ environment for Apache Arrow](https://uwekorn.com/2017/12/17/play-interactively-with-arrow-cpp-in-xeus-cling.html)
+
 ## Getting Started
 
 
